@@ -6,7 +6,7 @@ Hello! I’m RaviKiran, a 2nd-year BTech student at SVPCET, Puttur. Welcome to m
 ## Portfolio Homepage Screenshot
 
 ![Portfolio Homepage Screenshot]
-![portfilo pic](https://C:\Users\91897\Pictures/smile.jpg)
+![portfilo pic](img src="https://C:\Users\91897\Pictures/smile.jpg)
 
 ## Features
 
