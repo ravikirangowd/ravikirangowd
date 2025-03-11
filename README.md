@@ -26,4 +26,4 @@ Feel free to reach out if you'd like to connect:
 
 - *Email*: [sreenivasul@gmail.com](mailto:sreenivasul@gmail.com)
 - *LinkedIn*: [ravi kiran gowd](https://www.linkedin.com/in/ravikirangowd)
-- *GitHub*: [ravi kiran gowd](https://github.com/ravikirangowd)
+- *GitHub*: [sreenivasul](https://github.com/ravikirangowd)
