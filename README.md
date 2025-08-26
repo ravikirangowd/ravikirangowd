@@ -18,6 +18,7 @@ Hello! I’m RaviKiran, a 2nd-year BTech student at SVPCET, Puttur. Welcome to m
 ## Technologies Used
 
 - *Frontend*: HTML, CSS, and JavaScript
+- *Backend*: Python,Ruby,NodeJs
 - *Form Handling*: [Web3Forms](https://web3forms.com/) - Used to securely store contact form information.
 
 ## Contact Information
