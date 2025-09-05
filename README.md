@@ -1,6 +1,6 @@
 # Ravi kiran's Portfolio
 
-Hello! I’m RaviKiran, a 2nd-year BTech student at SVPCET, Puttur. Welcome to my portfolio, where I showcase my skills, projects, and journey in B.Tech.
+Hello! I’m RaviKiran, a 2nd-year BTech student at SVPCET, Puttur. Welcome to my portfolio, where I showcase my skills, projects, and journey in B.Tech.I am Eager to Waiting to get an opportunities in some Interships and Also Jobs in my early time, i have learned lot of skills like machinelearning libraries matplotlib,sklearn-preprocessing and also  some much of geneartive AI. 
 
 ---
 ## Portfolio Homepage Screenshot
@@ -10,7 +10,7 @@ Hello! I’m RaviKiran, a 2nd-year BTech student at SVPCET, Puttur. Welcome to m
 
 ## Features
 
-- *About Me*: I’m Ravi Kiran, a 2nd-year BTech student at SVPCET, Puttur
+- *About Me*: I’m Ravi Kiran, a 2nd-year BTech student at SVPCET, Puttur.
 - *Projects*: This is my portfolio website.
 - *Skills*: HTML,css,javascript,c,c++,python,java,sql
 
